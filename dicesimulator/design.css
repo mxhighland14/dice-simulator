@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(45deg, red, blue);
+}
+
+h1{
+    margin: 10;
+    text-align: center;
+    background-color:white;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.container{
+    text-align: center;
+    padding: 10px;
+}
+
+
+#btn{
+    
+    width: 240px;
+    height: 80px;
+    cursor: pointer;
+    color:white;
+    background:linear-gradient(90deg,#03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    font-size: 18px;
+    border-radius: 2px;
+    border:none;
+    
+}
